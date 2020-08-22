@@ -1,21 +1,4 @@
-<a href="https://www.youtube.com/watch?v=6bwNBRl_vvk&list=PLYuIF4k7MCrDLejMnAOkMKq4ZvJ5zvOYz&index=1">КАК НАЧИНАТЬ ИГРАТЬ С НУЛЯ</a>
-<a href="https://www.youtube.com/watch?v=5FbNBYogQec&list=PLYuIF4k7MCrDLejMnAOkMKq4ZvJ5zvOYz&index=2">ВЕРНУЛСЯ И НАЧАЛ С НУЛЯ В АЛЬБИОН ОНЛАЙН</a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
+1. <a href="https://www.youtube.com/watch?v=6bwNBRl_vvk&list=PLYuIF4k7MCrDLejMnAOkMKq4ZvJ5zvOYz&index=1">КАК НАЧИНАТЬ ИГРАТЬ С НУЛЯ</a>
+2. <a href="https://www.youtube.com/watch?v=5FbNBYogQec&list=PLYuIF4k7MCrDLejMnAOkMKq4ZvJ5zvOYz&index=2">ВЕРНУЛСЯ И НАЧАЛ С НУЛЯ В АЛЬБИОН ОНЛАЙН</a>
+3. <a href="https://www.youtube.com/watch?v=4L_uW2EUmq4&list=PLYuIF4k7MCrDLejMnAOkMKq4ZvJ5zvOYz&index=3">ПРОКАЧИВАЮ ПЕРСОНАЖА В ГРУППОВЫХ ПОДЗЕМЕЛЬЯХ</a>
+4. <a href="https://www.youtube.com/watch?v=bs0m19cVaoQ&list=PLYuIF4k7MCrDLejMnAOkMKq4ZvJ5zvOYz&index=5">ХЕЛЛГЕЙТЫ 2х2 НА ПАРНЫХ КИНЖАЛАХ</a>
