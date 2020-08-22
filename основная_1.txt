@@ -1,3 +1,5 @@
-ссылка на мой <a href="https://www.youtube.com/channel/UCwpMCNP7lmUEAm4BMRln15w">канал</a> 
-<p>параграф</p>
-<h1>текст</h1>
+<p>Проц : AMD Ryzen 5 3600X (3800MHz)</p>
+<p>Видюха : GIGABYTE nVidia GeForce RTX 2070</p>
+<p>Оперативка : Patriot Memory DDR4 DIMM 3200MHz 16 GB</p>
+<p>Мать : ASUS ROG STRIX B450-F GAMING</p>
+Куча SSD
